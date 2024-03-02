@@ -1,0 +1,2 @@
+# thitrdDemoSmart
+smartgit thirdDemo
